@@ -1,4 +1,6 @@
 //Ne jamais oublier de tout installer . Pour demarrer le nmp init, ensuite installer ce qu'il faut. installer react, react-DOM, craco, npm install; npm update react-router-dom npm update react npm update react-dom
+
+//Dans ce cas ci ne pas oublier les modifs pour pouvoir faire fonctionner les liaisons avec github.
 import React, { useState } from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
