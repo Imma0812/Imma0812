@@ -1,4 +1,4 @@
-# Hello à tous 👋
+## Hello à tous 👋
 
 ▶ Je suis Immaculé KONOU, 𝐝𝐞́𝐯𝐞𝐥𝐨𝐩𝐩𝐞𝐮𝐫 𝐰𝐞𝐛 passionné avec plus de 4 ans d'expérience, et j'ambitionne de devenir 𝐝𝐚𝐭𝐚 𝐚𝐧𝐚𝐥𝐲𝐬𝐭𝐞. 
 
@@ -6,30 +6,30 @@
 
 
 
-# ⬇ PLUS BAS QUELQUES DE MES RÉALISATIONS.⬇
+## ⬇ PLUS BAS QUELQUES DE MES RÉALISATIONS.⬇
 
 
 
-𝐌𝐄𝐒 𝐒𝐏𝐄́𝐂𝐈𝐀𝐋𝐈𝐓𝐄́𝐒 𝐀𝐂𝐓𝐔𝐄𝐋𝐋𝐄𝐒
+### 𝐌𝐄𝐒 𝐒𝐏𝐄́𝐂𝐈𝐀𝐋𝐈𝐓𝐄́𝐒 𝐀𝐂𝐓𝐔𝐄𝐋𝐋𝐄𝐒
 
-# ★DÉVELOPPEMENT DE SITES WEB
+★DÉVELOPPEMENT DE SITES WEB
 
 ● Conception et développement de sites modernes et réactifs (vitrine, portfolio, landing pages, boutique e-commerce).
 ● Compétence en React.js pour créer des interfaces utilisateur dynamiques et performantes.
 Conception de sites avec WordPress, adaptés aux besoins de petites et grandes entreprises.
 
-# ★OPTIMISATION SEO
+★OPTIMISATION SEO
 
 ● Stratégies de référencement naturel
 ● Améliorer la visibilité des sites sur les moteurs de recherche.
 Résultats : plus de trafic, plus de clients, plus de conversions.
 
-# ★FUNNEL BUILDING
+★FUNNEL BUILDING
 
 ● Création de funnels de vente efficaces pour guider les prospects à travers un parcours d'achat optimal.
 ● Conception de funnels sur mesure adaptés aux besoins spécifiques de chaque entreprise pour maximiser les conversions et booster les ventes.
 
-# ★ANALYSE DE DONNÉES
+★ANALYSE DE DONNÉES
 
 ● Utilisation de Python, Excel, SQL... pour traiter et analyser des données, afin d’en extraire des insights précieux.
 ● Création de visualisations avec des outils comme Power BI pour rendre les données accessibles et compréhensibles.
@@ -49,7 +49,7 @@ Prêt pour le nouveau départ ? Ton super Maestro t'emmène avec lui dans son un
 
 N'hésite pas à me contacter pour discuter de ton projet.
 
-QUELQUES LIENS DES RÉALISATIONS
+### QUELQUES LIENS DES RÉALISATIONS
 
 - ⚡ ...
 
