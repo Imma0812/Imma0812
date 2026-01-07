@@ -27,14 +27,14 @@ J'utilise une stack moderne pour créer des applications performantes et scalabl
 | **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) HTML5, CSS3, Figma |
 | **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white) API REST |
 | **Data & BDD** | ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black) R, Excel (Advanced) |
-| **Ops & Outils** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) UML, Jira |
+| **Ops & Outils** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) UML, LucidChart |
 | **CMS & Mktg** | WordPress, WooCommerce, Systeme.io, SEO, Google Analytics, Funnel Building |
 
 ---
 
 ## Projets Majeurs
 
-Ce sont des projets complexes impliquant conception, base de données et logique métier.
+Ce sont des projets impliquant conception, base de données et logique métier.
 
 ###  Plateforme Géospatiale (Type Cadastre)
 *Participation au développement d'un système d'information géographique.*
@@ -117,10 +117,6 @@ Je ne veux pas seulement stocker la donnée, je veux la faire parler. Mon parcou
 ---
 
 ###  Me Contacter
-
-Ouvert aux opportunités de **Stage (Avril 2026)** et d'alternance. Discutons de vos projets techniques !
-
-### 📫 Me Contacter
 
 Ouvert aux opportunités de **Stage (Avril 2026)** et d'alternance. Discutons de vos projets techniques !
 
