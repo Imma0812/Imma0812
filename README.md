@@ -3,6 +3,7 @@
 ###  Développeur Full-Stack | Étudiant L3 MIAGE | Ambition pour la Data Analyse
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/immaculé-konou)
+> ⚠️ **Note :** Mon portfolio est actuellement en cours de **refonte complète** pour intégrer mes derniers projets (Symfony 7, Data Analysis). La version actuelle reste accessible mais ne reflète pas encore la totalité de ma stack technique actuelle.
 
 
 ---
@@ -47,12 +48,12 @@ Ce sont des projets complexes impliquant conception, base de données et logique
 - **Stack :** Full-Stack JS (Node/React), MongoDB.
 - **Statut :** 🟡 En cours de déploiement. En ce moment je continue d'intervenir par moment sur la version 2
 
-### 🎓 Dashboard Administratif  (LCS)
+###  Dashboard Administratif  (LCS)
 *En collaboration avec l'agence Nexa SMN.*
 - **Le Défi :** Outil d'administration pour gérer les inscriptions et suivre le parcours des étudiants de l'école "Les Cours SONOU" avec une idée de stratégie marketing derrière.
 - **Fonctionnalités :** CRUD Étudiants, Stats inscriptions, Gestion financière, Gestion des ambassadeurs de l'école et bien d'autres.
 
-### 🏢 App Gestion Immobilière
+###  App Gestion Immobilière
 *Application type Conciergerie.*
 - **Le Défi :** Gestion locative et services pour une cliente à Nantes.
 
@@ -84,7 +85,7 @@ Ce sont des projets complexes impliquant conception, base de données et logique
 
 ---
 
-## 🌐 Réalisations Web & Freelance (Certains lien peuvent ne pas fonctionner, surement faut aux hébergement non renouvellé ou chzangement de nom de domaine)
+##  Réalisations Web & Freelance (Certains lien peuvent ne pas fonctionner, surement faut aux hébergement non renouvellé ou chzangement de nom de domaine)
 
 Une sélection de sites vitrines, e-commerce et funnels de vente réalisés pour des clients.
 
@@ -119,4 +120,8 @@ Je ne veux pas seulement stocker la donnée, je veux la faire parler. Mon parcou
 
 Ouvert aux opportunités de **Stage (Avril 2026)** et d'alternance. Discutons de vos projets techniques !
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/immaculé-konou)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:m.-simeon-immacule.konou@etudiant.univ-rennes.fr)
+### 📫 Me Contacter
+
+Ouvert aux opportunités de **Stage (Avril 2026)** et d'alternance. Discutons de vos projets techniques !
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/immaculé-konou) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.-simeon-immacule.konou@etudiant.univ-rennes.fr)
