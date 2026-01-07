@@ -1,68 +1,122 @@
-## Hello à tous 👋
+# Hello, Je suis M. Siméon Immaculé KONOU 👋
 
-▶ Je suis Immaculé KONOU, 𝐝𝐞́𝐯𝐞𝐥𝐨𝐩𝐩𝐞𝐮𝐫 𝐰𝐞𝐛 passionné avec plus de 4 ans d'expérience, et j'ambitionne de devenir 𝐝𝐚𝐭𝐚 𝐚𝐧𝐚𝐥𝐲𝐬𝐭𝐞. 
+###  Développeur Full-Stack | Étudiant L3 MIAGE | Ambition pour la Data Analyse
 
-⮑ Mon objectif est clair : combiner mes compétences en développement web avec l’analyse de données pour offrir des solutions qui non seulement fonctionnent, mais qui transforment les données en décisions stratégiques.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/immaculé-konou)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=AppVeyor&logoColor=white)](TON_LIEN_PORTFOLIO_ICI)
+
+---
+
+##  À propos de moi
+
+Passionné du code et du monde de la Data avec **plus de 4 ans d'expérience** en freelance et en entreprise, je suis actuellement étudiant en **Licence 3 MIAGE** à l'ISTIC (Université de Rennes 1).
+
+Mon profil est hybride : je maîtrise la **construction d'applications (Web ** et je me forme intensivement à l'**analyse de données** pour transformer des éventuels systèmes en outils d'aide à la décision.
+
+ **Mon Objectif :** Combiner l'ingénierie logicielle et la Data Science pour concevoir des solutions qui ne se contentent pas de fonctionner, mais qui génèrent de la valeur stratégique.
+
+---
+
+## Mon côté technique en terme de language
+
+J'utilise une stack moderne pour créer des applications performantes et scalables.
+
+| Domaine | Technologies & Outils |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) HTML5, CSS3, Figma |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white) API REST |
+| **Data & BDD** | ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black) R, Excel (Advanced) |
+| **Ops & Outils** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) UML, Jira |
+| **CMS & Mktg** | WordPress, WooCommerce, Systeme.io, SEO, Google Analytics, Funnel Building |
+
+---
+
+## Projets Majeurs
+
+Ce sont des projets complexes impliquant conception, base de données et logique métier.
+
+###  Plateforme Géospatiale (Type Cadastre)
+*Participation au développement d'un système d'information géographique.*
+- **Le Défi :** Enregistrement et visualisation des infrastructures et parcelles foncières pour la commune de Djougou.
+- **Stack :** Vue.js, Leaflet/Mapbox, SQL.
+- **Impact :** Digitalisation du cadastre local (similaire à cadastre.bj).
+
+###  AgriChain (Marketplace Agricole)
+*Solution de mise en relation producteurs / consommateurs.*
+- **Le Défi :** Créer un circuit court numérique pour valoriser la production locale.
+- **Stack :** Full-Stack JS (Node/React), MongoDB.
+- **Statut :** 🟡 En cours de déploiement. En ce moment je continue d'intervenir par moment sur la version 2
+
+### 🎓 Dashboard Administratif  (LCS)
+*En collaboration avec l'agence Nexa SMN.*
+- **Le Défi :** Outil d'administration pour gérer les inscriptions et suivre le parcours des étudiants de l'école "Les Cours SONOU" avec une idée de stratégie marketing derrière.
+- **Fonctionnalités :** CRUD Étudiants, Stats inscriptions, Gestion financière, Gestion des ambassadeurs de l'école et bien d'autres.
+
+### 🏢 App Gestion Immobilière
+*Application type Conciergerie.*
+- **Le Défi :** Gestion locative et services pour une cliente à Nantes.
 
 
+---
 
-## ⬇ PLUS BAS QUELQUES DE MES RÉALISATIONS.⬇
+## Projets En Cours & Lab (Work In Progress)
 
+*Parce que je ne m'arrête jamais d'apprendre, voici sur quoi je travaille actuellement pour monter en compétence.*
 
+- ** Auto-formation Data Analyst :**
+  apprentissage sur l'écosystème Python (Pandas, NumPy) et conception de dashboards décisionnels complexes sur Power BI.
 
-### 𝐌𝐄𝐒 𝐒𝐏𝐄́𝐂𝐈𝐀𝐋𝐈𝐓𝐄́𝐒 𝐀𝐂𝐓𝐔𝐄𝐋𝐋𝐄𝐒
+- ** Refonte AgriChain V2 :**
+  Évolution de la marketplace avec l'intégration de modules de paiement, une optimisation Mobile et la sécurité des données.
 
-★DÉVELOPPEMENT DE SITES WEB
+- ** Système de Réservation :**
+  Développement d'une application de gestion de salles sous **Symfony 7**.
+  * **Le Défi :** Implémentation d'un algorithme personnalisé pour empêcher les chevauchements de créneaux (anti-collision) et intégration d'une vue "Calendrier" interactive. C'est une idée que j'ai eu et que je suis entrain de vouloir concrétisern, en service pour les startups, Entreprise de n'importe quelle taille.
+  * **Stack :** Symfony 7, Doctrine ORM, Twig Components.
 
-● Conception et développement de sites modernes et réactifs (vitrine, portfolio, landing pages, boutique e-commerce).
-● Compétence en React.js pour créer des interfaces utilisateur dynamiques et performantes.
-Conception de sites avec WordPress, adaptés aux besoins de petites et grandes entreprises.
+- ** Générateur de Factures :**
+  Création d'un service de facturation automatisé avec envoi d'emails.
+  * **Le Défi :** Architecture logicielle orientée Services (création d'un `PdfGeneratorService` dédié) pour assurer des rendus PDF.
+  * **Stack :** Symfony 7, Mailer, KnpSnappy (DomPDF).
 
-★OPTIMISATION SEO
+- **🎮 Jeu de Stratégie Web :**
+  Développement d'un petit moteur de jeu en JavaScript Vanilla pour le fun (Passion Gaming).
 
-● Stratégies de référencement naturel
-● Améliorer la visibilité des sites sur les moteurs de recherche.
-Résultats : plus de trafic, plus de clients, plus de conversions.
+---
 
-★FUNNEL BUILDING
+## 🌐 Réalisations Web & Freelance (Certains lien peuvent ne pas fonctionner, surement faut aux hébergement non renouvellé ou chzangement de nom de domaine)
 
-● Création de funnels de vente efficaces pour guider les prospects à travers un parcours d'achat optimal.
-● Conception de funnels sur mesure adaptés aux besoins spécifiques de chaque entreprise pour maximiser les conversions et booster les ventes.
+Une sélection de sites vitrines, e-commerce et funnels de vente réalisés pour des clients.
 
-★ANALYSE DE DONNÉES
+**Conception & Développement :**
+- [Bracelets Hommes](http://bracelets.bracelethommes.com/) (E-commerce)
+- [ALC All Link](https://alc-alllink.com/) (Vitrine)
+- [Golden Lys](http://golden-lys.com/) (Vitrine)
 
-● Utilisation de Python, Excel, SQL... pour traiter et analyser des données, afin d’en extraire des insights précieux.
-● Création de visualisations avec des outils comme Power BI pour rendre les données accessibles et compréhensibles.
+**Mini-Apps & Outils (Démos Vercel) :**
+-  [Générateur de Citations](https://generateur-de-citations-six.vercel.app)
+-  [Mon Quiz Jeu](https://monquiz-jeu.vercel.app/)
+-  [Générateur de Mot de Passe](https://generateur-mot-de-passe.vercel.app/)
 
-# 𝐌𝐎𝐍 𝐀𝐌𝐁𝐈𝐓𝐈𝐎𝐍 : 𝐃𝐄𝐕𝐄𝐍𝐈𝐑 𝐃𝐀𝐓𝐀 𝐀𝐍𝐀𝐋𝐘𝐒𝐓𝐄
+**Refonte & Funnels Marketing :**
+- [Uzbeck.com](https://uzbeck.com/) (Refonte)
+- [Création Site Web Pro](http://creationsiteweb-pro.com/) (Refonte & Participation)
+- [Page de Vente Formation](https://11-formation.systeme.io/page-de-vente) (Systeme.io)
 
-✨ La donnée est le nouvel or numérique, et je suis déterminé à maîtriser cet univers pour apporter encore plus de valeur à mes projets et collaborations. Je suis actuellement en auto-formation intensive en analyse de données.
-🎯 Objectif : Allier ma maîtrise du développement web et ma future expertise en data analyse pour aider les entreprises à prendre des décisions stratégiques éclairées en transformant les données brutes en informations précieuses et exploitables.
+---
 
-# ★OUTILS ET LANGAGES
+## Mon Ambition : La Data au service du Code
 
-● HTML, CSS, JAVASCRIPT (React js, Next js), PHP, POWER BI, PYTHON, EXCEL, UML, SQL, NOSQL, R
-● WordPress, Woocommerce, SEO, Google Analytics, Système io.
+> "La donnée est le nouvel or numérique."
 
+Je ne veux pas seulement stocker la donnée, je veux la faire parler. Mon parcours en MIAGE me permet aujourd'hui de faire le pont entre :
+1.  **La Technique :** Comment récupérer et structurer la data (Dev/BDD).
+2.  **L'Analyse :** Comment la visualiser et l'interpréter (BI/Data Science).
 
-Prêt pour le nouveau départ ? Ton super Maestro t'emmène avec lui dans son univers 👨‍💻📈
+---
 
-N'hésite pas à me contacter pour discuter de ton projet.
+###  Me Contacter
 
-### QUELQUES LIENS DES RÉALISATIONS
+Ouvert aux opportunités de **Stage (Avril 2026)** et d'alternance. Discutons de vos projets techniques !
 
-- ⚡ ...
-
-- http://bracelets.bracelethommes.com/ (CONCEPTION)
-- https://alc-alllink.com/ (CONCEPTION)
-- https://uzbeck.com/ (REFONTE)
-- http://golden-lys.com/ (CONCEPTION)
-- http://creationsiteweb-pro.com/ (REFONTE ET PARTICIPATION)
-- https://generateur-de-citations-six.vercel.app (CONCEPTION)
-- https://monquiz-jeu.vercel.app/ (CONCEPTION)
-- https://generateur-mot-de-passe.vercel.app/ (CONCEPTION)
-- https://11-formation.systeme.io/page-de-vente (CONCEPTION)
-- https://11-formation.systeme.io/7_etapes_de_transformation (CONCEPTION)
- 
-- ⚡ ...
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/immaculé-konou)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:m.-simeon-immacule.konou@etudiant.univ-rennes.fr)
