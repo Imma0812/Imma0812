@@ -3,7 +3,7 @@
 ###  Développeur Full-Stack | Étudiant L3 MIAGE | Ambition pour la Data Analyse
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/immaculé-konou)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=AppVeyor&logoColor=white)](TON_LIEN_PORTFOLIO_ICI)
+
 
 ---
 
