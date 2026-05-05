@@ -1,123 +1,133 @@
-# Hello, Je suis M. Siméon Immaculé KONOU 👋
+<h1 align="center">Hello, je suis Siméon Immaculé KONOU 👋</h1>
 
-###  Développeur Full-Stack | Étudiant L3 MIAGE | Ambition pour la Data Analyse
+<p align="center">
+  <b>Data Engineering & Analytics · ETL · Data Pipelines · Analytics Engineering</b><br/>
+  <code>Python</code> · <code>SQL</code> · <code>PySpark</code> · <code>Power BI</code><br/>
+  <b> Open to Data Alternance · Septembre 2026</b>
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/immaculé-konou)
-> ⚠️ **Note :** Mon portfolio est actuellement en cours de **refonte complète** pour intégrer mes derniers projets (Symfony 7, Data Analysis). La version actuelle reste accessible mais ne reflète pas encore la totalité de ma stack technique actuelle.
-
-
----
-
-##  À propos de moi
-
-Passionné du code et du monde de la Data avec **plus de 4 ans d'expérience** en freelance et en entreprise, je suis actuellement étudiant en **Licence 3 MIAGE** à l'ISTIC (Université de Rennes 1).
-
-Mon profil est hybride : je maîtrise la **construction d'applications (Web ** et je me forme intensivement à l'**analyse de données** pour transformer des éventuels systèmes en outils d'aide à la décision.
-
- **Mon Objectif :** Combiner l'ingénierie logicielle et la Data Science pour concevoir des solutions qui ne se contentent pas de fonctionner, mais qui génèrent de la valeur stratégique.
-
----
-
-## Mon côté technique en terme de language
-
-J'utilise une stack moderne pour créer des applications performantes et scalables.
-
-| Domaine | Technologies & Outils |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) HTML5, CSS3, Figma |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white) API REST |
-| **Data & BDD** | ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black) R, Excel (Advanced) |
-| **Ops & Outils** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) UML, LucidChart |
-| **CMS & Mktg** | WordPress, WooCommerce, Systeme.io, SEO, Google Analytics, Funnel Building |
+<p align="center">
+  <a href="https://www.linkedin.com/in/immaculé-konou/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:immaculekonou@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://certifs.vercel.app">
+    <img src="https://img.shields.io/badge/Certifications-2E8B57?style=for-the-badge&logo=verifiedby&logoColor=white" alt="Certifs"/>
+  </a>
+</p>
 
 ---
 
-## Projets Majeurs
+##  À propos
 
-Ce sont des projets impliquant conception, base de données et logique métier.
+Je pivote vers la **Data Engineering & Analytics** : ce qui m'intéresse, c'est la chaîne complète de la donnée — de la **collecte brute** jusqu'à la **décision business**.
 
-###  Plateforme Géospatiale (Type Cadastre)
-*Participation au développement d'un système d'information géographique.*
-- **Le Défi :** Enregistrement et visualisation des infrastructures et parcelles foncières pour la commune de Djougou.
-- **Stack :** Vue.js, Leaflet/Mapbox, SQL.
-- **Impact :** Digitalisation du cadastre local (similaire à cadastre.bj).
+> Mon profil hybride **Dev + Data** est un atout : je ne me contente pas d'analyser la donnée, je sais aussi **construire les pipelines, les bases et les applications** qui la produisent et la consomment.
 
-###  AgriChain (Marketplace Agricole)
-*Solution de mise en relation producteurs / consommateurs.*
-- **Le Défi :** Créer un circuit court numérique pour valoriser la production locale.
-- **Stack :** Full-Stack JS (Node/React), MongoDB.
-- **Statut :** 🟡 En cours de déploiement. En ce moment je continue d'intervenir par moment sur la version 2
-
-###  Dashboard Administratif  (LCS)
-*En collaboration avec l'agence Nexa SMN.*
-- **Le Défi :** Outil d'administration pour gérer les inscriptions et suivre le parcours des étudiants de l'école "Les Cours SONOU" avec une idée de stratégie marketing derrière.
-- **Fonctionnalités :** CRUD Étudiants, Stats inscriptions, Gestion financière, Gestion des ambassadeurs de l'école et bien d'autres.
-
-###  App Gestion Immobilière
-*Application type Conciergerie.*
-- **Le Défi :** Gestion locative et services pour une cliente à Nantes.
-
+** Ce que je cherche :** une **alternance Data Engineer / Analytics Engineer** à partir de **septembre 2026**.
 
 ---
 
-## Projets En Cours & Lab (Work In Progress)
+##  Stack Technique
 
-*Parce que je ne m'arrête jamais d'apprendre, voici sur quoi je travaille actuellement pour monter en compétence.*
+###  Data, BDD & IA
+| Catégorie | Technologies |
+|---|---|
+| **Langages Data** | Python, SQL, R |
+| **Bibliothèques Python** | Pandas, NumPy, Streamlit, Matplotlib, Seaborn, Plotly, PyTorch |
+| **Bases de données SQL** | PostgreSQL, MySQL, Oracle |
+| **Bases de données NoSQL** | MongoDB |
+| **Big Data & Streaming** | PySpark, Kafka |
+| **BI & Visualisation** | Power BI |
 
-- ** Auto-formation Data Analyst :**
-  apprentissage sur l'écosystème Python (Pandas, NumPy) et conception de dashboards décisionnels complexes sur Power BI.
+###  Frontend
+`React.js` · `Next.js` · `Tailwind CSS` · `JavaScript (ES6+)` · `HTML5` · `CSS3` · `Figma`
 
-- ** Refonte AgriChain V2 :**
-  Évolution de la marketplace avec l'intégration de modules de paiement, une optimisation Mobile et la sécurité des données.
+###  Backend
+`PHP (Symfony)` · `Node.js` · `API REST`
 
-- ** Système de Réservation :**
-  Développement d'une application de gestion de salles sous **Symfony 7**.
-  * **Le Défi :** Implémentation d'un algorithme personnalisé pour empêcher les chevauchements de créneaux (anti-collision) et intégration d'une vue "Calendrier" interactive. C'est une idée que j'ai eu et que je suis entrain de vouloir concrétisern, en service pour les startups, Entreprise de n'importe quelle taille.
-  * **Stack :** Symfony 7, Doctrine ORM, Twig Components.
-
-- ** Générateur de Factures :**
-  Création d'un service de facturation automatisé avec envoi d'emails.
-  * **Le Défi :** Architecture logicielle orientée Services (création d'un `PdfGeneratorService` dédié) pour assurer des rendus PDF.
-  * **Stack :** Symfony 7, Mailer, KnpSnappy (DomPDF).
-
-- **🎮 Jeu de Stratégie Web :**
-  Développement d'un petit moteur de jeu en JavaScript Vanilla pour le fun (Passion Gaming).
+###  Ops, Outils & Méthodologies
+`Docker` · `Git / GitHub` · `WordPress` · `LucidChart` · `UML` · `Analyse Système` · `SEO`
 
 ---
 
-##  Réalisations Web & Freelance (Certains lien peuvent ne pas fonctionner, surement faut aux hébergement non renouvellé ou chzangement de nom de domaine)
-
-Une sélection de sites vitrines, e-commerce et funnels de vente réalisés pour des clients.
-
-**Conception & Développement :**
-- [Bracelets Hommes](http://bracelets.bracelethommes.com/) (E-commerce)
-- [ALC All Link](https://alc-alllink.com/) (Vitrine)
-- [Golden Lys](http://golden-lys.com/) (Vitrine)
-
-**Mini-Apps & Outils (Démos Vercel) :**
--  [Générateur de Citations](https://generateur-de-citations-six.vercel.app)
--  [Mon Quiz Jeu](https://monquiz-jeu.vercel.app/)
--  [Générateur de Mot de Passe](https://generateur-mot-de-passe.vercel.app/)
-
-**Refonte & Funnels Marketing :**
-- [Uzbeck.com](https://uzbeck.com/) (Refonte)
-- [Création Site Web Pro](http://creationsiteweb-pro.com/) (Refonte & Participation)
-- [Page de Vente Formation](https://11-formation.systeme.io/page-de-vente) (Systeme.io)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,mysql,mongodb,docker,git,github,react,nextjs,tailwind,js,html,css,nodejs,php,symfony,figma" alt="Tech stack"/>
+</p>
 
 ---
 
-## Mon Ambition : La Data au service du Code
+##  Projets Data & IA
 
-> "La donnée est le nouvel or numérique."
+### 🔹 [ETL-pipeline-e-commerce](https://github.com/Imma0812/ETL-pipeline-e-commerce)
+> **Pipeline ETL complet** en Python analysant **500 000+ transactions e-commerce** réelles (UK Retail, 2010-2011).
 
-Je ne veux pas seulement stocker la donnée, je veux la faire parler. Mon parcours en MIAGE me permet aujourd'hui de faire le pont entre :
-1.  **La Technique :** Comment récupérer et structurer la data (Dev/BDD).
-2.  **L'Analyse :** Comment la visualiser et l'interpréter (BI/Data Science).
+- **Stack** : `Python 3.10+` · `Pandas` · `SQLite` · `SQL avancé`
+- **Concepts** : Window Functions, CTE, agrégations, **segmentation client RFM** (Recency, Frequency, Monetary)
+- **Datasets** : Kaggle (Ventes, RH)
+
+### 🔹 [stock-predicator](https://github.com/Imma0812/stock-predicator)
+> **Dashboard de prédiction boursière** en Python avec interface interactive Streamlit.
+
+- **Stack** : `Python` · `Streamlit` · `Pandas`
+- **Objectif** : connecter modèle prédictif et interface décisionnelle dans un seul outil opérationnel.
+
+### 🔹 [certifs](https://github.com/Imma0812/certifs)
+> Vitrine **Next.js** centralisant mes certifications data & dev — déployée sur Vercel.
+
+- **Live** :  [certifs.vercel.app](https://certifs.vercel.app)
+
+### 🔹 Autres projets data
+- **Programme d'analyse de sentiment** (NLP, Python)
+- **Chatbots** conversationnels (Python)
 
 ---
 
-###  Me Contacter
+##  Projets Web & Logiciel
 
-Ouvert aux opportunités de **Stage (Avril 2026)** et d'alternance. Discutons de vos projets techniques !
+<details>
+<summary><b>Voir les projets Full-Stack & Freelance</b></summary>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/immaculé-konou) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.-simeon-immacule.konou@etudiant.univ-rennes.fr)
+- **AgriChain** — Marketplace agricole (circuit court producteurs/consommateurs)
+- **Outil d'administration étudiant** — collaboration avec l'agence Nexa SMN
+- **Application de gestion immobilière** — type conciergerie
+- **Plateforme d'information géospatiale** — type Cadastre
+- **Mini-projets** : Puissance 4, Morpion (jeux Python)
+
+</details>
+
+---
+
+##  Certifications
+
+| Plateforme | Certification | Statut |
+|---|---|---|
+| **Udemy** | Data Science avec Python | 🟡 En cours |
+| **OpenClassrooms** | Python, Power BI, Excel, SQL | 🟡 En attente de certification |
+| **freeCodeCamp** | Python | 🟡 En cours |
+
+ **Toutes mes certifications** : [certifs.vercel.app](https://certifs.vercel.app)
+
+---
+
+## Langues
+
+- 🇫🇷 **Français** — Maternel
+- 🇬🇧 **Anglais** — Intermédiaire
+
+---
+
+## Me contacter
+
+> **Disponible pour une alternance Data à partir de septembre 2026.**
+
+-  **LinkedIn** — [Immaculé Konou](https://www.linkedin.com/in/immaculé-konou/)
+-  **Email** — immaculekonou@gmail.com
+
+---
+
+<p align="center">
+  <i>"La donnée est le nouvel or numérique — encore faut-il savoir la raffiner."</i>
+</p>
